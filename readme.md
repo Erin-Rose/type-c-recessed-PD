@@ -1,5 +1,9 @@
 # Type-C Recessed with PD support (And maybe usb 2.0?)
 The same concept as https://github.com/Jana-Marie/type-c-recessed with CC and D+/D- pins broken out, (theoretically?) capable of 100W USB PD. 
+
+## How do I use this?
+This repo includes the PCB design for the vertical board (under boards -> VerticalBoard), as well as a footprint (with 3D model) you can use in your own designs. 
+
 <table>
   <tbody>
     <tr>
