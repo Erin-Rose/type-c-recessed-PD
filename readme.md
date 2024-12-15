@@ -4,10 +4,10 @@ The same concept as https://github.com/Jana-Marie/type-c-recessed with CC and D+
   <tbody>
     <tr>
       <td>
-        <img src="images/RENDER1.png" alt="A fusion 360 render of the pcb assembled on a little test base pcb. The assembly is laying with the internal usb-c socket side facing the camera showing how it would be soldered together. "/>
+        <img src="Images/RENDER1.png" alt="A fusion 360 render of the pcb assembled on a little test base pcb. The assembly is laying with the internal usb-c socket side facing the camera showing how it would be soldered together. "/>
       </td>
       <td>
-        <img src="images/RENDER2.png" alt="A render of the main pcb and example base board apart, the main pcb resting upside down on the corner of the base pcb. On the underside of the main pcb you can see a thick power trace with plenty of vias."/>
+        <img src="Images/RENDER2.png" alt="A render of the main pcb and example base board apart, the main pcb resting upside down on the corner of the base pcb. On the underside of the main pcb you can see a thick power trace with plenty of vias."/>
       </td>
     </tr>
   </tbody>
