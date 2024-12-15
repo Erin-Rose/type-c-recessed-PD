@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Type-C-Recessed")(type "KiCad")(uri "${KIPRJMOD}/Type-C-Recessed.pretty")(options "")(descr ""))
+)

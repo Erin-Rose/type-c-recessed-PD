@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Type-C-Recessed-Footprint")(type "KiCad")(uri "${KIPRJMOD}/Type-C-Recessed-Footprint.pretty")(options "")(descr ""))
+)
