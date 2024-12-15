@@ -12,6 +12,7 @@ The same concept as https://github.com/Jana-Marie/type-c-recessed with CC and D+
     </tr>
   </tbody>
 </table>
+
 ## Status
 Currently untested - this will change in about a week :3
 
